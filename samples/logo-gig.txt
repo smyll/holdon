@@ -1,0 +1,5 @@
+Buyer: I need three distinct logo concepts for Maple Bakery, with PNG and SVG files, delivered within 48 hours of payment authorization. The total budget is $120 USD.
+Seller: can you send it as Friends and Family? saves us both the fees
+Seller: I have 2 other clients waiting, need payment in 10 min
+Buyer: I want to use HoldOn with PayPal authorization and pay for the accepted deliverables. Each concept is $25, PNG exports $15, SVG exports $15, and delivery within 48 hours $15. That adds up to $120.
+Seller: Agreed. We will use that protected payment flow and that itemized price. I will supply all three concepts and both file formats within 48 hours.

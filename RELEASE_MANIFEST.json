@@ -1,0 +1,244 @@
+{
+  "created_at": "2026-11-11T06:47:56.944Z",
+  "files": [
+    {
+      "path": "app/api/deals/[[...path]]/route.ts",
+      "bytes": 7973,
+      "sha256": "9cf9aee1d9adfe0c067dfec3d8d07e46a608c66bf8278e6e9ce7e5a818496c32"
+    },
+    {
+      "path": "app/components/acceptance-review.tsx",
+      "bytes": 4843,
+      "sha256": "6ac8228de0efda7cbc92c278e4d6fb64cef06c9d3eae942550994285d880f214"
+    },
+    {
+      "path": "app/components/api.ts",
+      "bytes": 495,
+      "sha256": "89fcfbddadcc817b743b2dbfd938e8e76182fcb48c0e01a282df1be456ef01ea"
+    },
+    {
+      "path": "app/components/paypal-button.tsx",
+      "bytes": 2252,
+      "sha256": "21a7ff28acb22e81fd8b5732a5e023c48f9e480afef8475a0dc44cc3b34b3082"
+    },
+    {
+      "path": "app/components/scope-changes.tsx",
+      "bytes": 7478,
+      "sha256": "7dda54ef9dd23db38c63c7cf4fda4cb1ae44dd391a04763775b26dc19b653a87"
+    },
+    {
+      "path": "app/dashboard/page.tsx",
+      "bytes": 556,
+      "sha256": "0d4b4be9c9edc946e91c4a1f8865b54bc7cb2c3bfb182fdacc2ed9dadd335222"
+    },
+    {
+      "path": "app/dashboard/table.tsx",
+      "bytes": 2939,
+      "sha256": "e0c48227c9769ddd7df55a364013b7dd06600c875bd1839f3e260823f2614a28"
+    },
+    {
+      "path": "app/deals/[id]/page.tsx",
+      "bytes": 416,
+      "sha256": "911a006caa52458ecfca2585016ac73435b41111f8cb1a9769c72f027cbb5fcd"
+    },
+    {
+      "path": "app/deals/[id]/view.tsx",
+      "bytes": 12493,
+      "sha256": "12d4ec9314b08f6d7f2296af8d50b7eba0b88e4bf749485445ebe64736905b9e"
+    },
+    {
+      "path": "app/deals/new/page.tsx",
+      "bytes": 2201,
+      "sha256": "52ffbcf5d23c27878e2051388c4d1a639037951e652e11edec8d1732684a126d"
+    },
+    {
+      "path": "app/globals.css",
+      "bytes": 6534,
+      "sha256": "c58ab12d150568f33230d8955f80d3897bc1aade696037a94183a91a96f5b3fe"
+    },
+    {
+      "path": "app/layout.tsx",
+      "bytes": 453,
+      "sha256": "06dc7fa87e8eda272e030561613f65aa233070d61ce3a7eab58f0b45bb89d41c"
+    },
+    {
+      "path": "app/page.tsx",
+      "bytes": 2994,
+      "sha256": "3cf822e5e88ab1287aa3743738da50ce1e09766e4a2c1e175894b072d27b4218"
+    },
+    {
+      "path": "lib/ai.ts",
+      "bytes": 7553,
+      "sha256": "f464c287ffe8eb5b99d18fd779a59b4177fedc7551f6737c488652ac2df8e393"
+    },
+    {
+      "path": "lib/changes.ts",
+      "bytes": 6542,
+      "sha256": "2afed3ed01582b511ceca2c72ce668fae7c305d191f82955bcf1a3c13cbcd1c6"
+    },
+    {
+      "path": "lib/deals.ts",
+      "bytes": 11409,
+      "sha256": "55ed6571d3328f10fcc7919258918ff0e1cdba294ab38b3ed6d7b7e3a817711d"
+    },
+    {
+      "path": "lib/paypal.ts",
+      "bytes": 6049,
+      "sha256": "4e6f2b6321012c0823e65dc99643c9ccf26144cbda1ad5e44e47f2dbecebbecd"
+    },
+    {
+      "path": "lib/review.ts",
+      "bytes": 4742,
+      "sha256": "8b82179bf9282e134e00db69631caa12ce122e8a2e2018f63f08924320f70b7d"
+    },
+    {
+      "path": "lib/samples.ts",
+      "bytes": 2392,
+      "sha256": "b8fbef9cf842a132f59e0c0a5f363b49781a066633dc429f9db3b502a3528ab5"
+    },
+    {
+      "path": "lib/store.ts",
+      "bytes": 2030,
+      "sha256": "b16e67cea3ed1a76039da4946301311fba1f690390e58c1b16ebdd996eaf3ca9"
+    },
+    {
+      "path": "lib/types.ts",
+      "bytes": 9515,
+      "sha256": "5918281e55d053c719211a79c43ee98d855d3a7ded8cab5a13e35dbd43020e1b"
+    },
+    {
+      "path": "tests/changes.test.ts",
+      "bytes": 8092,
+      "sha256": "604943625d4c814b38686bc7da4030e6d22fbf28e2b32c1f83848ebf266bb404"
+    },
+    {
+      "path": "tests/deals.test.ts",
+      "bytes": 12788,
+      "sha256": "f1e2af4f20d7583cd851dfc8d8cc2f6862f73207c08a4593886722aeab8a11a4"
+    },
+    {
+      "path": "tests/paypal.test.ts",
+      "bytes": 4672,
+      "sha256": "2d92a26972d43f95747b3fb77e426782f67f6bae2bfe155d0e64b3668279d369"
+    },
+    {
+      "path": "scripts/paypal-smoke.ts",
+      "bytes": 5161,
+      "sha256": "923773641970b7ebb6435c9531bdd87b5fde93036f31dea872d88aa8b44b03de"
+    },
+    {
+      "path": "package.json",
+      "bytes": 870,
+      "sha256": "63cea10cda683093689f8afaa53d403b9500f99a5c13ec09a8f8d645a9c3a54b"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 78239,
+      "sha256": "fd4476d5a96f2d1e5bfb82fc58eeb22d4698164ad1778c25834f71207fd7f3ac"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 680,
+      "sha256": "2b4925ca61dd1680e7be07c49dca8fd6386e9e7c26074914a479def9ff82aafd"
+    },
+    {
+      "path": "postcss.config.mjs",
+      "bytes": 63,
+      "sha256": "5a9a2d463507b47b2f2cc17ad55f0128db063912227331e789601d2e5890fb98"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 75,
+      "sha256": "fa4fca11a59ccee6cb00a8033ed0f1a3d482f166b9a22fbb71bde760b29b53db"
+    },
+    {
+      "path": ".env.example",
+      "bytes": 219,
+      "sha256": "bfa165251b142a2fe131db0e19fb4a7239582fe6176c05319e0ab23752aaa81b"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1076,
+      "sha256": "2171e7633d243ee67ca0a9d53c20f18188718d05283e579421b1c743986d6198"
+    },
+    {
+      "path": "README.md",
+      "bytes": 13604,
+      "sha256": "aa12979a636112f2a2a16122f70ff8970054fff9b70d10ba33011079f2faaca5"
+    },
+    {
+      "path": "docs/JUDGING_GUIDE.md",
+      "bytes": 5202,
+      "sha256": "04aab40b7becf4109aa21c66e20654d407d945b6d289b563b241539029d01291"
+    },
+    {
+      "path": "docs/verification-summary.json",
+      "bytes": 2602,
+      "sha256": "48cc891d0a004ed038d5b2947a2efe7119aab5e5c5e1bb9ee8131b4266f78142"
+    },
+    {
+      "path": "docs/images/scope-order.png",
+      "bytes": 88059,
+      "sha256": "c9ffc7fd8e3be73c96ee94c2fa443897b59cb4a219d030647066ddd36ac458a9"
+    },
+    {
+      "path": "docs/images/scope-payment-completed.png",
+      "bytes": 107696,
+      "sha256": "96bac229f3783a03f18f9d68151296d8f9fbabade2841dca4b219847893ba8df"
+    },
+    {
+      "path": "samples/logo-gig.txt",
+      "bytes": 657,
+      "sha256": "339d2dfe52dc2771bce9283a3cb95d2ed813fad5fb44af2f6cd33ac93fdafb77"
+    },
+    {
+      "path": "samples/gift-card-scam.txt",
+      "bytes": 382,
+      "sha256": "40df9f11c9f6588fabac25c9203d715e2aad4e075e44a0e2d0a1542dd23b73aa"
+    },
+    {
+      "path": "samples/gpu-sale.txt",
+      "bytes": 460,
+      "sha256": "6c4d90971028e56cd0a5ea1f4e590ee73fc22e5df4e6a1ff4d507f07f0fe8dee"
+    },
+    {
+      "path": "samples/delivery/concept-one.png",
+      "bytes": 29474,
+      "sha256": "fb3668935185d8cecf9c13930f988fc7a9a5cdccb9908fc34f43ac96e2b006d6"
+    },
+    {
+      "path": "samples/delivery/concept-two.png",
+      "bytes": 23412,
+      "sha256": "c98288ac7ddd54fc567828387aec78b740742b39b08737a6a0a92c9de835edfa"
+    },
+    {
+      "path": "samples/delivery/scope-verification/packaging-demo.png",
+      "bytes": 24322,
+      "sha256": "f2437fcf676bf06f67855a93d2d86441091806a147f596cb86aeca5e7851ad91"
+    },
+    {
+      "path": "samples/delivery/scope-verification/packaging-demo.pdf",
+      "bytes": 43884,
+      "sha256": "c3b0a90bf2cf72df9c08dfe54fa347a8605761afef8ca9aac8c04b5556308ba1"
+    },
+    {
+      "path": "samples/delivery/scope-verification/animation-inspection.png",
+      "bytes": 8735,
+      "sha256": "dfaa4e449c6f3d2c95504f43448af8bd2a7db2fa9bc470e80a2ee874c86bf74b"
+    },
+    {
+      "path": "samples/delivery/scope-verification/animation-demo.zip",
+      "bytes": 110243,
+      "sha256": "94d56aaece0b5844927e8f5b8444371c5af8b0d5dd5dff774abfc627fd7928aa"
+    }
+  ],
+  "excluded": [
+    ".env.local",
+    "data/",
+    "node_modules/",
+    ".next/",
+    "login screenshots"
+  ],
+  "publication_status": "local review package only",
+  "updated_at": "2026-11-11T06:51:39.721Z"
+}

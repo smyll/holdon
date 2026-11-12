@@ -1,0 +1,4 @@
+Buyer: I want to buy the two concert tickets for $180 USD. Can we use PayPal authorization with buyer review?
+Seller: PayPal is blocked in my country. You must buy an Apple gift card worth $180 and send me the code first.
+Buyer: I would prefer buyer protection.
+Seller: Gift cards only. No PayPal or buyer protection. Send the code in the next five minutes or the tickets are gone.

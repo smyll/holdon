@@ -1,0 +1,87 @@
+{
+  "kind": "Recorded fictional Sandbox verification; not seeded runtime data",
+  "verified_at": "2026-11-10T05:47:23.321Z",
+  "original_price": 120,
+  "additional_price": 45,
+  "scope_classifications": [
+    {
+      "request": "fix the company name from Mapel Bakery to Maple Bakery in the original logos",
+      "category": "correction",
+      "agreement_quotes": [
+        {
+          "id": "concept_1",
+          "quote": "Logo concept 1 for 'Maple Bakery' (exact company name), delivered as PNG and SVG exports"
+        },
+        {
+          "id": "concept_2",
+          "quote": "Logo concept 2 for 'Maple Bakery' (exact company name), delivered as PNG and SVG exports"
+        },
+        {
+          "id": "concept_3",
+          "quote": "Logo concept 3 for 'Maple Bakery' (exact company name), delivered as PNG and SVG exports"
+        }
+      ]
+    },
+    {
+      "request": "Please add packaging artwork",
+      "category": "new_work",
+      "agreement_quotes": [
+        {
+          "id": "scope:2",
+          "quote": "Packaging artwork and animation are not included."
+        }
+      ]
+    },
+    {
+      "request": "and a five-second animated logo",
+      "category": "new_work",
+      "agreement_quotes": [
+        {
+          "id": "scope:2",
+          "quote": "Packaging artwork and animation are not included."
+        }
+      ]
+    }
+  ],
+  "settlement": {
+    "ai_suggested_amount": 0,
+    "human_accepted_amount": 45,
+    "reason_required": true,
+    "full_acceptance_uses_original_seller_consent": true
+  },
+  "paypal": {
+    "environment": "sandbox",
+    "order_status": "COMPLETED",
+    "authorization_status": "CAPTURED",
+    "captures": [
+      {
+        "status": "COMPLETED",
+        "amount": {
+          "currency_code": "USD",
+          "value": "45.00"
+        },
+        "final_capture": true
+      }
+    ]
+  },
+  "checks": {
+    "original_price_unchanged": 120,
+    "original_payment_untouched": true,
+    "additional_captured": 45,
+    "capture_count": 1,
+    "repeated_release_http": 200,
+    "changed_amount_http": 400,
+    "all_downloaded_files_match_originals": true,
+    "missing_acceptance_reason_rejected": true,
+    "full_price_acceptance_uses_original_seller_consent": true
+  },
+  "automated_tests": {
+    "passed": 26,
+    "kind": "simulated API and temporary-store tests"
+  },
+  "limitations": [
+    "Full SDK popup callback is not covered; ordinary PayPal approval link was used.",
+    "PDF and ZIP require human review; AI did not claim to inspect their contents.",
+    "This is a fictional single-operator test, not a real buyer/seller trial."
+  ]
+}
