@@ -163,13 +163,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 13604,
-      "sha256": "aa12979a636112f2a2a16122f70ff8970054fff9b70d10ba33011079f2faaca5"
+      "bytes": 13846,
+      "sha256": "24c753aabf37a160a1709942aeb0d164d19a06daccbe0cc6cff4391d036fd462"
     },
     {
       "path": "docs/JUDGING_GUIDE.md",
-      "bytes": 5202,
-      "sha256": "04aab40b7becf4109aa21c66e20654d407d945b6d289b563b241539029d01291"
+      "bytes": 5299,
+      "sha256": "3c2b0ee19c07e6638ba9cd26c2b72fd36f2b13d051e5290ae92efa29f3f5576a"
     },
     {
       "path": "docs/verification-summary.json",
@@ -239,6 +239,6 @@
     ".next/",
     "login screenshots"
   ],
-  "publication_status": "local review package only",
-  "updated_at": "2026-11-11T06:51:39.721Z"
+  "publication_status": "public repository; documentation updated after Devpost submission",
+  "updated_at": "2026-11-12T04:26:28.825175+00:00"
 }

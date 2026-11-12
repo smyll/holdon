@@ -8,6 +8,8 @@ The local demo also supports PayPal authorization, delivery evidence, human acce
 
 For a guided evaluation, see [Judging setup and walkthrough](docs/JUDGING_GUIDE.md). A selected [verification summary](docs/verification-summary.json) is included without the private local ledger or credentials.
 
+Watch the [English demonstration](https://youtu.be/LTuvxqPIULI) with selectable English subtitles. It shows a fictional $120 agreement and a separate $45 PayPal Sandbox change order; one operator demonstrates both roles.
+
 ## How it works
 
 1. Paste an agreement and a USD price. DeepSeek extracts deliverables, scope boundaries and revision terms. Buyer and seller confirm the same saved version; edits reset both confirmations.
@@ -105,7 +107,7 @@ The 26 automated tests cover cents allocation, grounded quotations, scope-term e
 
 This build supports one capture per deal and ten scope reviews per deal. Additional quotes become separate orders. Evidence can be supplemented before settlement starts. A matching filename does not establish file contents; non-image files need human inspection. Model confidence is a routing signal, not proof. Scope comparison uses the confirmed checklist and scope terms, not unconfirmed original-chat claims; it has no automatic record of revision usage. Scope classifications do not independently verify a customer's report of a defect.
 
-The application currently uses one Sandbox Business seller. Both demo roles are operated locally by one person and are not authenticated identities. Production onboarding needs authentication, role enforcement, durable storage and the relevant PayPal platform approvals. The change order's Sandbox authorization, test delivery, human acceptance and full capture have been verified as described above. The SDK popup callback, public hosting, webhooks and submission video remain separate work. No real-money or public deployment readiness is claimed.
+The application currently uses one Sandbox Business seller. Both demo roles are operated locally by one person and are not authenticated identities. Production onboarding needs authentication, role enforcement, durable storage and the relevant PayPal platform approvals. The change order's Sandbox authorization, test delivery, human acceptance and full capture have been verified as described above and shown in the linked demonstration. The SDK popup callback, public hosting and webhooks remain separate work. No real-money or public deployment readiness is claimed.
 
 ## Built for the hackathon
 

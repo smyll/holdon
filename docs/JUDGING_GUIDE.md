@@ -55,7 +55,7 @@ Alternatively, use `npm run dev` for development. For a different port, run `npm
 
 ## Reviewer access status
 
-The source package intentionally contains no passwords, API keys or private transaction database. Dedicated reviewer credentials or another suitable private access arrangement still need to be provided before formal submission. Do not publish the developer's existing secrets. A reviewer should not be expected to fund the author's demonstration; arrange the intended access separately and keep it available for the judging period.
+Dedicated DeepSeek access, PayPal Sandbox app credentials and a separate Personal test buyer are supplied in the Devpost submission's judges/organizers-only testing instructions. Use those details with the setup above; the author provides the configured API access for evaluation. The source package intentionally contains no passwords, API keys or private transaction database. Keep the supplied credentials private. If access fails, contact the entrant through Devpost rather than purchasing API credit for this demonstration.
 
 ## Data and limits
 
